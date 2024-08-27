@@ -36,7 +36,7 @@ There's a good rule of thumb within internet culture called the 1% rule. It stat
 So while we consider it really important to listen and respond to those who post feedback and voice their opinions on forums, they only represent a tiny fraction of our end users. When making decisions on how to move forward with future versions of WordPress, we look to engage more of those users who are not so vocal online. We do this by meeting and talking to users at WordCamps across the globe, this gives us a better balance of understanding and ultimately allows us to make better decisions for everyone moving forward.
 
 Our Bill of Rights
-WordPress is licensed under the General Public License (GPL) which provides four core freedoms, consider this as the WordPress "bill of rights":
+WordPress is licensed under the General Public License (GPLv2 or later) which provides four core freedoms, consider this as the WordPress "bill of rights":
 
 The freedom to run the program, for any purpose.
 The freedom to study how the program works, and change it to make it do what you wish.
