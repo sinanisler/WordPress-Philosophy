@@ -6,7 +6,7 @@ We work hard to make sure that every release is in keeping with this philosophy.
 Design for the Majority
 Many end users of WordPress are non-technically minded. They don't know what AJAX is, nor do they care about which version of PHP they are using. The average WordPress user simply wants to be able to write without problems or interruption. These are the users that we design the software for as they are ultimately the ones who are going to spend the most time using it for what it was built for.
 
-Decisions not Options
+Decisions, not Options
 When making decisions these are the users we consider first. A great example of this consideration is software options. Every time you give a user an option, you are asking them to make a decision. When a user doesn't care or understand the option this ultimately leads to frustration. As developers we sometimes feel that providing options for everything is a good thing, you can never have too many choices, right? Ultimately these choices end up being technical ones, choices that the average end user has no interest in. It's our duty as developers to make smart design decisions and avoid putting the weight of technical choices on our end users.
 
 Clean, Lean, and Mean
@@ -22,7 +22,7 @@ In past releases we've taken major steps to improve ease of use and ultimately m
 We love to challenge ourselves and simplify tasks in ways that are positive for the overall WordPress user experience. Every version of WordPress should be easier and more enjoyable to use than the last.
 
 Deadlines Are Not Arbitrary
-Deadlines are not arbitrary, they’re a promise we make to ourselves and our users that helps us rein in the endless possibilities of things that could be a part of every release. We aspire to release three major versions a year because through trial and error we’ve found that to be a good balance between getting cool stuff in each release and but not too much that we end up breaking more than we add.
+Deadlines are not arbitrary, they’re a promise we make to ourselves and our users that helps us rein in the endless possibilities of things that could be a part of every release. We aspire to release three major versions a year because through trial and error we’ve found that to be a good balance between getting cool stuff in each release and not so much that we end up breaking more than we add.
 
 Good deadlines almost always make you trim something from a release. This is not a bad thing, it’s what they’re supposed to do.
 
